@@ -1,0 +1,49 @@
+{
+    "Cats": {
+        "name": "Cats",
+        "followers": 25000,
+        "following": 5,
+        "posts":[
+            {
+                "image": "https://www.istockphoto.com/photo/cute-tabby-cat-sleeping-wrapped-in-wool-orange-blanket-fall-mood-autumn-vibes-gm2170099490-590043417?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fcat&utm_medium=affiliate&utm_source=unsplash&utm_term=cat%3A%3A%3A",
+                "Likes": 800,
+                "Comments": 15
+            },
+            {
+                "image": "https://www.istockphoto.com/photo/stray-cat-playing-with-plants-gm534309092-94780219?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Funsplash-free-cat-images&utm_medium=affiliate&utm_source=unsplash&utm_term=unsplash+free+cat+images%3A%3A%3A",
+                "Likes": 700,
+                "Comments": 177
+            },
+            {
+                "image": "https://www.istockphoto.com/photo/cute-little-red-kitten-sitting-in-flowers-on-the-grass-gm1188446343-336098832?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Funsplash-free-cat-images&utm_medium=affiliate&utm_source=unsplash&utm_term=unsplash+free+cat+images%3A%3A%3A",
+                "Likes": 290,
+                "Comments": 15
+            }
+
+        ]
+    },
+    "Dogs": {
+        "name": "Dogs",
+        "followers": 3000,
+        "following": 510,
+        "posts":[
+            {
+                "image": "https://unsplash.com/photos/shallow-focus-photography-of-white-shih-tzu-puppy-running-on-the-grass-qO-PIF84Vxg",
+                "Likes": 800,
+                "Comments": 15
+            },
+            {
+                "image": "https://unsplash.com/photos/selective-focus-photography-of-golden-labrador-retriever-pgUbpDLJh3E",
+                "Likes": 700,
+                "Comments": 177
+            },
+            {
+                "image": "https://unsplash.com/photos/white-dog-and-gray-cat-hugging-each-other-on-grass-9gz3wfHr65U",
+                "Likes": 290,
+                "Comments": 15
+            }
+
+        ]
+    }
+    
+}
