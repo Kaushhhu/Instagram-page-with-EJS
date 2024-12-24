@@ -4,12 +4,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Instagram</title>
-      <style>
+    <style>
+        
         img {
-            height : 100px;
-            width: 100px;
+            height : 300px;
+            width: 300px;
         }
-    </style> 
+    </style>
 </head>
 <body>
     <h2>This page belongs to @<%= data.name %></h2>
@@ -26,8 +27,8 @@
     <% for (let post of data.posts) { %>
         <img src="<%= post.image %>" alt="some img">
         <p>
-        Likes : <%= post.likes %> &nbsp;&nbsp;&nbsp; 
-        Comments: <%= post.comments %> 
+        Likes : <%= post.Likes %> &nbsp;&nbsp;&nbsp; 
+        Comments: <%= post.Comments %> 
         </p>
     <% } %>
 
